@@ -2,7 +2,7 @@
 
 <h3>Funtional Requirement</h3>
 
-<p>1.Responsive Design: Thwebsite must be mobile-friendly and responsive, providing a seamless experience on all devices (desktop, tablet, mobile).<br><br>
+<p>1.Responsive Design: The website must be mobile-friendly and responsive, providing a seamless experience on all devices (desktop, tablet, mobile).<br><br>
 2.Easy Navigation: Clear and intuitive navigation menus, product categories, search bar, and filtering options.<br><br>
 3.Product Display: High-quality product images, detailed descriptions, product reviews, and related products.<br><br>
 4.Shopping Cart: Users should be able to add items to the cart, view the cart summary, and easily proceed to checkout.<br>
