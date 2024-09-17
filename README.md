@@ -10,5 +10,12 @@
 6.User Account: Ability to create and manage user accounts, view order history, and save addresses.<br><br>
 7.Language and Currency Support: Multiple language options and currency conversion for international customers.<br><br>
 8.Search Bar: An efficient search bar with autocomplete or suggestion features.<br><br>
-9.Filters and Sorting: Enable users to filter products by price, brand, rating, etc., and sort by relevance, price, or popularity.</p>
+9.Filters and Sorting: Enable users to filter products by price, brand, rating, etc., and sort by relevance, price, or popularity.
+
+Additional Features to Consider
+Secure Payment Integration
+
+Provide multiple payment options like credit cards, PayPal, Apple Pay, Google Pay, and more.<br><br>
+Ensure the checkout process is encrypted and complies with security standards (SSL, PCI-DSS).<br><br>
+</p>
 
