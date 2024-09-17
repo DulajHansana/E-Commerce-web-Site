@@ -12,7 +12,7 @@
 8.Search Bar: An efficient search bar with autocomplete or suggestion features.<br><br>
 9.Filters and Sorting: Enable users to filter products by price, brand, rating, etc., and sort by relevance, price, or popularity.
 
-Additional Features to Consider
+Additional Features to Consider<br><br>
 Secure Payment Integration
 
 Provide multiple payment options like credit cards, PayPal, Apple Pay, Google Pay, and more.<br><br>
