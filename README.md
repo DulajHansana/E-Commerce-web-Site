@@ -15,7 +15,7 @@
 Additional Features to Consider<br><br>
 Secure Payment Integration
 
-Provide multiple payment options like credit cards, PayPal, Apple Pay, Google Pay, and more.<br><br>
-Ensure the checkout process is encrypted and complies with security standards (SSL, PCI-DSS).<br><br>
+*Provide multiple payment options like credit cards, PayPal, Apple Pay, Google Pay, and more.<br><br>
+*Ensure the checkout process is encrypted and complies with security standards (SSL, PCI-DSS).<br><br>
 </p>
 
